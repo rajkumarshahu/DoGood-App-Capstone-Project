@@ -26,13 +26,13 @@ $ nodemon or node server.js
 ```sh
 $ cd dogood-frontend/help_app
 $ flutter doctor to find out any remaining dependencies you may need to install. 
-$ flutter emulators``` to list and start any available device emulators.
-$ flutter emulators --launch <emulator id>. To run an emulator
+$ flutter emulators (to list and start any available device emulators).
+$ flutter emulators --launch <emulator id> (to run an emulator).
 $ flutter run (to run our app on an attached device, run).
 ```
 - You can find more information on managing emulators at the links below:
-  https://developer.android.com/studio/run/managing-avds 
-  https://developer.android.com/studio/command-line/avdmanager
+- https://developer.android.com/studio/run/managing-avds 
+- https://developer.android.com/studio/command-line/avdmanager
 
 ## Deployment
 * Our app is deployed to Heroku:
