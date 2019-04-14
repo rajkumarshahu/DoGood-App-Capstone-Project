@@ -1,7 +1,12 @@
-# this is backend for dogood
+# This is backend for dogood
 
-# install packages with
-npm install
+### Prerequisites
+  - [Install node.js](https://nodejs.org/en/download/)
+  
 
-# run
-nodemon or node server.js
+## Running Backend
+```sh 
+$ cd dogood-backend
+$ npm install (to install dependencies)
+$ nodemon or node server.js
+```
