@@ -40,7 +40,7 @@ https://dogood-backend.herokuapp.com
 * [Download and install our app](https://drive.google.com/file/d/16cMSqz6_wZxRLOT6yZFAKKfDl2KOyaDX/view)
 
 ### Authors
-- Raj Kumar Shahu
+- <a href="https://www.rajkumarshahu.com" target="_blank">Raj Kumar Shahu</a>
 - Utsav Bir Singh Tuladhar
 - Pushpa Raj Dulal
 
